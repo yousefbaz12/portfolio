@@ -54,6 +54,7 @@ Hi, I'm Yousef Elbaz!
 <h3 align="left">Platforms:</h3>
 <p align="left"><a href="https://www.microsoft.com/en-us/software-download/windows10" target="blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="windows" width="40" height="40"/> </a>&nbsp;
 <hr>
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&custom_title=Your+GitHub+Stats&hide_title=true&line_height=28&hide_rank=true&hide=contribs&hide_border=true&langs_count=4&bg_color=000000&text_color=FFFFFF&title_color=F92672&icon_color=F92672&hide_progress=true&locale=en&card_width=445&card_height=195&count_private=true&include_all_commits=true&hide=stars,issues&hide_border=true&disable_animations=true&cache_seconds=1800&exclude_repo=YOUR_EXCLUDED_REPOS&hide=stars,prs,issues,contribs&custom_title=Your+GitHub+Stats&hide_rank=true&line_height=28&hide_title=true&hide_border=true&bg_color=000000&text_color=FFFFFF&title_color=F92672&icon_color=F92672&locale=en)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?yousefelbaz=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <hr>
 
