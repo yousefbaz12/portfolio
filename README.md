@@ -1,28 +1,57 @@
-# Portfolio
-### 🧰 Languages and Tools
-### Mobile Development
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Flutter" width="30px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+<h1 align="center">
+Hi, I'm Yousef Elbaz!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
-### Git Tools
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />     
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<center>
+<p align="center">
+<img align="center" style="text-align:center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&color=F74726&width=435&lines=Are+you+looking+for+an+AI+engineer?;Or+a+data+scientist+expert?;Please,+Feel+free+to+ contact+with+me.+" alt="Typing SVG" /></p>
+</center>
 
-### Web Development 
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<hr>
+<center>
+<p align="center">
+<img align="center" style="text-align:center" width="200" height="200" src="https://trabeya.com/wp-content/uploads/2020/09/fin-brain2-1.gif" alt="AI brain" /></p>
+</center>
 
-### DATA BASE 
-<img align="left" alt="Mongo DB" width="30px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
-<img align="left" alt="SQL ORACLE" width="30px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />          
-### Machine Learning Tools And Languages 
-<img align="left" alt="Kaggle" width="30px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" />        
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-<img align="left" alt="Pandas" width="30px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-<img align="left" alt="Numpy" width="30px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-<img align="left" alt="Flask" width="30px" style="padding-right:10px;"img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-<br />
+🧑‍🎓 I am about to graduate from the faculty of computer sciences at Zagazig university with B.Sc this year .
 
-#
+🔭 For now, I am working on building ML and deep learning models for training and gaining experience in these areas .
+
+🌱 I’m currently improving myself in machine learning, deep learning, reinforcement learning, data analysis, NLP, etc...
+
+👨‍💻 All of my future projects will be available on my GitHub profile.
+
+💬 I’m interested in Python, scikit-learn, pandas, matplotlib, numpy, scipy.
+
+📄 Know about my experiences and check my <a href="https://drive.google.com/file/d/1VQ9TDkV7VEsR-YcKpWKTULcFAJpCGh0O/view?usp=share_link" target="blank">resume</a>.
+⚡ Fun fact I think that I can't get off teaching the machines.
+<hr>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="mailto:yousefelbaz104@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="40"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/yousef-elbaz-972810243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yousef-elbaz-972810243/" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/yousefelbaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/zeyadelgharby" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100008316621501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100008316621501 " height="30" width="40" /></a>
+</p>
+<hr>
+<h3 align "left">Programming languages:</h3>
+<p>
+ <a href="https://www.w3schools.com/java/" target="blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="cplusplus" width="40" height="40"/> </a>&nbsp;<a href="https://www.python.org" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+<hr>          
+<p>
+<h3 align "left">AI and data science packages:</h3>
+&nbsp; <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> &nbsp; <a href="https://pytorch.org/" target="blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a> &nbsp; <a href="https://scikit-learn.org/" target="blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> &nbsp; <a href="https://seaborn.pydata.org/" target="blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a> &nbsp; <a href="https://matplotlib.org" target="blank" rel="noreferrer"><img alt="matplotlib" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" height="40"></a> &nbsp; <a href="https://www.tensorflow.org" target="blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a></p>
+
+<h3 align="left">Database management system:</h3>
+<p>
+<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/> </a>&nbsp;<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="Mongo DB" width="40" height="40"/></a>
+</p>          
+<hr>          
+<h3 align="left">Devops Tools:</h3>
+</a>&nbsp;<a href="https://git-scm.com/" target="blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<hr>
+<h3 align="left">Platforms:</h3>
+<p align="left"><a href="https://www.microsoft.com/en-us/software-download/windows10" target="blank" rel="noreferrer"> 
+<hr>
+<img align="center" style="text-align:center; display:block" src="https://github-readme-stats.vercel.app/api/top-langs?username=eng-zeyadtarek&show_icons=true&theme=dark&locale=en&layout=compact" alt="eng-yousefelbaz"/>
+<hr>
