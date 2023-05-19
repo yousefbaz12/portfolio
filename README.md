@@ -52,7 +52,7 @@ Hi, I'm Yousef Elbaz!
 </a>&nbsp;<a href="https://git-scm.com/" target="blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <hr>
 <h3 align="left">Platforms:</h3>
-<p align="left"><a href="https://www.microsoft.com/en-us/software-download/windows10" target="blank" rel="noreferrer"> 
+<p align="left"><a href="https://www.microsoft.com/en-us/software-download/windows10" target="blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="windows" width="40" height="40"/> </a>&nbsp;
 <hr>
 <img align="center" style="text-align:center; display:block" src="https://github-readme-stats.vercel.app/api/top-langs?username=eng-zeyadtarek&show_icons=true&theme=dark&locale=en&layout=compact" alt="eng-yousefelbaz"/>
 <hr>
