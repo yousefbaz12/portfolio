@@ -54,6 +54,6 @@ Hi, I'm Yousef Elbaz!
 <h3 align="left">Platforms:</h3>
 <p align="left"><a href="https://www.microsoft.com/en-us/software-download/windows10" target="blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="windows" width="40" height="40"/> </a>&nbsp;
 <hr>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?yousefelbaz12=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" style="text-align:center; display:block" src="https://github-readme-stats.vercel.app/api/top-langs?username=eng-yousefelbaz&show_icons=true&theme=dark&locale=en&layout=compact" alt="eng-yousefelbaz"/>
 <hr>
 
