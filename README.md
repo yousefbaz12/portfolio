@@ -4,7 +4,7 @@ Hi, I'm Yousef Elbaz!
 
 <center>
 <p align="center">
-<img align="center" style="text-align:center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&color=F74726&width=435&lines=I+am+interesting+in+ML+And+DL;And+I+hope+to+be+expert+in+Data+Science?;Please,+Feel+free+to+ contact+with+me.+" alt="Typing SVG" /></p>
+<img align="center" style="text-align:center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&color=F74726&width=435&lines=I+am+interesting+in+ML+And+DL;And+Ihopetobe+expert+in+Data+Science?;Please,+Feel+free+to+ contact+with+me.+" alt="Typing SVG" /></p>
 </center>
 
 <hr>
