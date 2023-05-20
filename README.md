@@ -1,6 +1,7 @@
 <h1 align="center">
 Hi, I'm Yousef Elbaz!
   <img align="left" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <center>
 <p align="center">
 <img align="center" style="text-align:center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&color=F74726&width=500&lines=I+am+interesting+in+ML+And+DL;And+I hope to be+expert+in+DataScience;Please,+Feel+free+to+ contact+with+me.+" alt="Typing SVG" /></p>
