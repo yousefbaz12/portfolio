@@ -56,7 +56,7 @@ Hi, I'm Yousef Elbaz!
 <hr>
 <h3 align="left">UI & UX TOOLS:</h3>
 <p align="left"><a href="https://www.figma.com/@yousef_elbaz" target="blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/> </a>&nbsp;
- <p align="left"><a href="" target="blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="adobe xd " width="40" height="40"/> </a>&nbsp;
+ align="left"><a href="" target="blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="adobe xd " width="40" height="40"/> </a>&nbsp;
 <hr>         
 <img align="center" style="text-align:center; display:block" src="https://github-readme-stats.vercel.app/api/top-langs?username=eng-zeyadtarek&show_icons=true&theme=dark&locale=en&layout=compact" alt="eng-yousefelbaz"/>
 <hr>
