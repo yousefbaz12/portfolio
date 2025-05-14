@@ -26,7 +26,7 @@ Hi, I'm Yousef Elbaz
 
 💬 I’m interested in Python, scikit-learn, pandas, matplotlib, numpy, scipy.
 
-📄 Know about my experiences and check my <a href="https://drive.google.com/file/d/1VQ9TDkV7VEsR-YcKpWKTULcFAJpCGh0O/view?usp=share_link" target="blank">resume</a>.
+📄 Know about my experiences and check my <a href="https://drive.google.com/file/d/1zv1syn-ZcoAH9aUvs8nw7Db3ioedJKB-/view?usp=sharing" target="blank">resume</a>.
 
 ⚡ Fun fact I think that I can't get off teaching the machines.
 <hr>
